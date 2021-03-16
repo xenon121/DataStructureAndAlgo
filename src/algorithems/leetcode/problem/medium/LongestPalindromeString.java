@@ -1,5 +1,7 @@
 package algorithems.leetcode.problem.medium;
 
+import java.util.stream.Stream;
+
 public class LongestPalindromeString {
 
 	public static void main(String[] args) {

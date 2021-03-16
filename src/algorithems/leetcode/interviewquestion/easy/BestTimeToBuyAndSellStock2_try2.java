@@ -5,7 +5,7 @@ public class BestTimeToBuyAndSellStock2_try2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] prices = { 7, 1, 5, 3, 6, 4, 7 };
+		int[] prices = { 7, 1, 5, 3, 6, 4, 7, 8};
 		//int[] prices = { 7, 1, 5, 1, 6, 4 };
 		//int[] prices = { 7,6,4,3,1 };
 		//int[] prices = {6,1,3,2,4,7};
