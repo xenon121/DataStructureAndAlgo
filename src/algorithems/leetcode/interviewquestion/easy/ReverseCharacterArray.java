@@ -1,7 +1,5 @@
 package algorithems.leetcode.interviewquestion.easy;
 
-import java.util.Arrays;
-
 public class ReverseCharacterArray {
 
 	public static void main(String[] args) {
@@ -10,7 +8,7 @@ public class ReverseCharacterArray {
 		char[] s = {'H','a','n','n','a','h'};
 		
 		char temp;
-	
+		
 		for(int i=0; i<s.length/2; i++) {
 			
 			temp = s[i];
